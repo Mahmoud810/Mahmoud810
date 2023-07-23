@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning more about mobile app <br>🎯 Goals: keep learning</p>
+<p align="left">💡iOS Developer, Passionate learner who's always willing to learn and work across technologies and domains<br>📚 I'm currently learning more about mobile app <br>🎯 Goals: keep learning</p>
 
 ###
 
