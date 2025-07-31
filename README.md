@@ -42,7 +42,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud810&show_icons=true&theme=radical" alt="Mahmoud's GitHub Stats" />
   <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=mahmoud810&theme=radical&hide_border=true" alt="Mahmoud's GitHub Streak" /> -->
-  <img src="https://streak-stats.demolab.com/?user=Mahmoud810&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Mahmoud810&theme=radical&hide_border=true)](https://github.com/Mahmoud810)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud810&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
