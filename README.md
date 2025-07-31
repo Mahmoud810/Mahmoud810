@@ -40,10 +40,10 @@
 <h2 align="left">Statistics:</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud810&show_icons=true&theme=radical" alt="Mahmoud's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud810&show_icons=true&theme=radical" alt="Mahmoud's GitHub Stats" />
   <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=mahmoud810&theme=radical&hide_border=true" alt="Mahmoud's GitHub Streak" /> -->
-  <img src="https://streak-stats.demolab.com?user=mahmoud810&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud810&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://streak-stats.demolab.com?user=Mahmoud810&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud810&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ---
