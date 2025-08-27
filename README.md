@@ -1,59 +1,137 @@
+<div align="center">
 
-<p align="left">My name is Mahmoud and I'm an iOS Developer.</p>
+# 👋 Hello, I'm Mahmoud Refat
 
----
+## 🚀 iOS Developer | Swift & Objective-C Specialist
 
-<h2 align="left">About me</h2>
-
-<p align="left">
-💡 iOS Developer, Passionate learner who's always willing to learn and work across technologies and domains.<br>
-📚 I'm currently learning more about mobile app development.<br>
-🎯 Goals: Keep learning and growing as a developer.
-</p>
-
----
-
-<h2 align="left">Languages and Tools:</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="40" alt="objectivec logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+*Bachelor’s Degree in Computer Science* with expertise in building *native iOS applications* that are scalable, user-friendly, and performance-optimized.
+
+*Proven ability to build, debug, and enhance iOS applications using UIKit and SwiftUI, with successful experience in App Store deployments.*
+
 ---
 
-<h2 align="left">Statistics:</h2>
+### 💼 *Professional Summary*
+
+🍏 *iOS Expert: Proficient in **Swift* and *Objective-C*, UIKit, SwiftUI, and MVVM architecture.  
+🎯 *Clean Code Advocate: Skilled in **SOLID principles, **dependency injection*, and clean architecture patterns.  
+🌐 *Network Handling: Experienced with **Alamofire*, RESTful APIs, and secure data serialization.  
+🔧 *Reusable Components*: Strong ability to design reusable screens and shared view models for different API endpoints.  
+
+---
+
+## 📫 *Let's Connect*
+
+- 📧 *Email*: [mahmoud@example.com](mailto:mahmoud@example.com)  
+- 💼 *LinkedIn*: [Mahmoud Refat](https://linkedin.com/in/mahmoud-refat-b24026235)  
+- 🐙 *GitHub*: [@mahmoud810](https://github.com/mahmoud810)  
+
+---
+
+## 🛠️ *Technical Skills*
+
+### *Programming Languages & Frameworks*
+- *Swift, **Objective-C*
+- *UIKit, **SwiftUI*
+- *Combine, **RxSwift* (learning & practicing)
+- *Core Data, **UserDefaults*
+- *Foundation* & *Core Animation*
+
+### *Architectures & Patterns*
+- *MVVM, **Clean MVVM*
+- *Dependency Injection*
+- *SOLID Principles*
+- *Observer Pattern, **Delegation*
+
+### *Networking & APIs*
+- *Alamofire*
+- *URLSession*
+- *RESTful APIs* & *JSON*
+- *OAuth Integration* (Google Sign-In, Firebase Auth)
+
+### *Tools & Services*
+- *Xcode 16*
+- *Git & GitHub*
+- *CocoaPods, **Swift Package Manager*
+- *Firebase* (Notifications, Analytics, Remote Config)
+- *FSCalendar, **WebView Integration*
+
+### *Testing & CI/CD*
+- *Unit Testing (XCTest)*
+- *Fastlane*
+- *GitHub Actions*
+
+---
+
+## 🎯 *What I Do Best*
+
+🍏 *Native iOS Development* – Building smooth, user-friendly apps with UIKit & SwiftUI  
+⚡ *Performance Optimization* – Ensuring responsive and efficient applications  
+🏗️ *Reusable & Scalable Code* – Clean MVVM with modular design  
+🎨 *Custom UI/UX* – Creating engaging, dynamic interfaces  
+📱 *App Store Publishing* – Experienced in Apple App Store releases  
+🔧 *Problem Solving* – Debugging, refactoring, and improving legacy code  
+
+---
+
+## 🌟 *Recent Projects*
+
+### ☁️ *Weather Forecast App*
+- *Platform*: iOS (UIKit, Swift)
+- *Description: A weather forecast app showing a **5-day forecast* using *OpenWeatherMap API*.
+- *Key Features*: Location-based weather, custom UI, reusable components
+- *Technologies*: Alamofire, Codable, Clean MVVM
+
+### 🖼️ *Image Gallery App*
+- *Platform*: iOS (UIKit, Swift)
+- *Description*: A gallery app that loads and displays images using MVVM without Clean Architecture.
+- *Key Features*: Observer-based binding, image caching, responsive design
+- *Technologies*: UIKit, MVVM, Observer properties
+
+### 📅 *Event Filtering with FSCalendar*
+- *Platform*: iOS (UIKit, Swift)
+- *Description: Built a view controller combining **FSCalendar* with category-based filtering for events.
+- *Key Features*: Custom UI, category filters, date selection logic
+- *Technologies*: UIKit, FSCalendar, MVVM
+
+### 🔑 *Authentication & Login Flows*
+- *Platform*: iOS (UIKit, Swift)
+- *Description*: Implemented secure login and registration flows with API integration.
+- *Key Features*: Google OAuth, phone number verification, reusable login screens
+- *Technologies*: Alamofire, Clean MVVM, Dependency Injection
+
+---
+
+## 📚 *Education & Background*
+
+- *Bachelor of Computer Science* – [Your University Name]  
+- 👨‍💻 Passionate about *iOS development* and *clean code practices*  
+- 📖 Currently learning *RxSwift* and advanced *iOS architecture patterns*  
+
+---
+
+## 🚀 *What Drives Me*
+
+Passionate about transforming innovative ideas into elegant iOS applications.  
+I believe in writing *clean, maintainable code* and crafting apps that deliver both functionality and delightful user experiences.  
+
+---
+
+## 🔥 *Fun Facts*
+
+- 🎯 *Goal: Becoming an expert in **iOS architecture & RxSwift*  
+- 🍏 *Vision*: Building impactful iOS apps that improve people’s lives  
+- 💡 *Motto: *“Write clean code, design with clarity.”  
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud810&show_icons=true&theme=radical" alt="Mahmoud's GitHub Stats" />
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=mahmoud810&theme=radical&hide_border=true" alt="Mahmoud's GitHub Streak" /> -->
-  <img src="https://streak-stats.demolab.com/?user=Mahmoud810&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud810&layout=compact&theme=radical" alt="Most Used Languages" />
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-2563EB?style=for-the-badge&logo=swift&logoColor=white)
+![Alamofire](https://img.shields.io/badge/Alamofire-FF6F00?style=for-the-badge&logo=swift&logoColor=white)
+
 </div>
-
----
-
-<h2 align="left">Connect with me:</h2>
-
-<p align="left">
-<a href="https://linkedin.com/in/mahmoud-refat-b24026235" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="Mahmoud's LinkedIn" />
-</a>
-<a href="https://github.com/mahmoud810" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="Mahmoud's GitHub" />
-</a>
-</p>
